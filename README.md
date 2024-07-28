@@ -19,4 +19,4 @@ Ben Hakan, Java ve Kotlin kullanarak Android uygulamaları geliştirme üzerine 
 
 ![Adınızın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hakan-kuru&show_icons=true&theme=radical)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadiniz&layout=compact&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical)
