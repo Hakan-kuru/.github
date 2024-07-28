@@ -1,7 +1,7 @@
 # .github
-# Merhaba, Ben [Adınız] 👋
+# Merhaba, Ben Hakan 👋
 
-Ben [Adınız], Java ve Kotlin kullanarak Android uygulamaları geliştiren bir yazılım mühendisiyim. Yeni teknolojiler öğrenmeyi ve topluluğa katkıda bulunmayı seviyorum.
+Ben Hakan, Java ve Kotlin kullanarak Android uygulamaları geliştirme üzerine bir yazılım mühendisiyim. Yeni teknolojiler öğrenmeyi ve topluluğa katkıda bulunmayı seviyorum.
 
 ## 🌐 Connect with me
 
