@@ -1,7 +1,12 @@
-# .github
-# Merhaba, Ben Hakan 👋
+# Hello, I'm Hakan 👋
 
-Ben Hakan, Java ve Kotlin kullanarak Android uygulamaları geliştirme üzerine bir yazılım mühendisiyim. Yeni teknolojiler öğrenmeyi ve topluluğa katkıda bulunmayı seviyorum.
+I am a software developer working on developing Android applications. I love learning new technologies and contributing to society
+
+-  I write articles on [https://medium.com/@hakan.k3272](https://medium.com/@hakan.k3272)
+-  
+-  I’m currently working on  **Kotlin** and Android.
+
+- How to get connected **hakan.kuru345@gmail.com**
 
 ## 🌐 Connect with me
 
@@ -21,4 +26,4 @@ Ben Hakan, Java ve Kotlin kullanarak Android uygulamaları geliştirme üzerine 
 
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-kuru&layout=compact&theme=radical)
 
-![github katkı grafiği yılanı](https://github.com/Hakan-kuru/Hakan-kuru/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/Hakan-kuru/Hakan-kuru/assets/70065773/08212c70-dfa9-4305-b2c0-3513d87a146c)<svg viewBox="-16 -32 880 192" width="1000" height="192" xmlns="http://www.w3.org/2000/svg">
